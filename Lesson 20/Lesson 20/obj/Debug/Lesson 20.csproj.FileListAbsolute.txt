@@ -1,0 +1,9 @@
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\bin\Debug\Lesson 20.exe.config
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\bin\Debug\Lesson 20.exe
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\bin\Debug\Lesson 20.pdb
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson_20.Form1.resources
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson_20.Properties.Resources.resources
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson 20.csproj.GenerateResource.cache
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson 20.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson 20.exe
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\Lesson 20\Lesson 20\obj\Debug\Lesson 20.pdb
