@@ -1,0 +1,10 @@
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\bin\Debug\lesson 23 if else w Method.exe.config
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\bin\Debug\lesson 23 if else w Method.exe
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\bin\Debug\lesson 23 if else w Method.pdb
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson 23 if else w Method.csprojAssemblyReference.cache
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson_23_if_else_w_Method.Form1.resources
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson_23_if_else_w_Method.Properties.Resources.resources
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson 23 if else w Method.csproj.GenerateResource.cache
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson 23 if else w Method.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson 23 if else w Method.exe
+C:\Users\Michel\Documents\Udemy Training\GitHub\exercises\CSHARP\Tom O Windows form VS2017\lesson 23 if else w Method\lesson 23 if else w Method\obj\Debug\lesson 23 if else w Method.pdb
